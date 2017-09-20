@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D087-C8B0
+
+ Directory of C:\Users\Akriti\git-skeleton
+
+09/05/2017  05:48 PM    <DIR>          .
+09/05/2017  05:48 PM    <DIR>          ..
+09/05/2017  05:48 PM                 0 akritij2.txt
+09/05/2017  05:42 PM                17 README.md
+               2 File(s)             17 bytes
+               2 Dir(s)  111,436,611,584 bytes free
